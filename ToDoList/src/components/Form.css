@@ -1,0 +1,11 @@
+.form-container {
+  display: flex;
+  align-items: center;
+}
+.form-container > div {
+  margin: 5px;
+}
+.btn-add {
+  background-color: royalblue;
+  padding: 20px;
+}
